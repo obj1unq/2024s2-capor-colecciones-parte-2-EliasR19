@@ -1,5 +1,4 @@
 import capos.*
-
 test "encontrar artefactos" {
 	
 	rolando.encontrar(espada)
